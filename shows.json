@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "shows": [
+    {
+      "id": "mentalist",
+      "title": "The Mentalist",
+      "poster": "https://static.tvmaze.com/uploads/images/original_untouched/0/1239.jpg",
+      "character": "Patrick Jane",
+      "actor": "Simon Baker",
+      "packs": [
+        { "name": "Patrick Jane — The Mentalist Season 1 (2008–2009)", "season": 1, "episodes": 23, "scenepackId": null },
+        { "name": "Patrick Jane — The Mentalist Season 2 (2009–2010)", "season": 2, "episodes": 23, "scenepackId": null },
+        { "name": "Patrick Jane — The Mentalist Season 3 (2010–2011)", "season": 3, "episodes": 24, "scenepackId": null },
+        { "name": "Patrick Jane — The Mentalist Season 4 (2011–2012)", "season": 4, "episodes": 24, "scenepackId": null },
+        { "name": "Patrick Jane — The Mentalist Season 5 (2012–2013)", "season": 5, "episodes": 22, "scenepackId": null },
+        { "name": "Patrick Jane — The Mentalist Season 6 (2013–2014)", "season": 6, "episodes": 22, "scenepackId": null },
+        { "name": "Patrick Jane — The Mentalist Season 7 (2014–2015)", "season": 7, "episodes": 13, "scenepackId": null }
+      ]
+    }
+  ]
+}
